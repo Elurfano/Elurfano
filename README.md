@@ -2,7 +2,7 @@
 You can reach me through my [LinkedIn](https://www.linkedin.com/in/elurfano/)
  or email me at *elurfano@up.edu.ph*
 
-## I'm currently working on increasing my web dev knowledge
+## I'm currently working on increasing my webdev knowledge
 ### Interested in the following
 - Python
 - JavaScript
