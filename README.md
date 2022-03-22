@@ -1,3 +1,11 @@
-Hello I'm Ellris
-I'm currently working on increasing my web dev knowledge
-You can reach me at elurfano@up.edu.ph
+# Hello I'm Ellris
+You can reach me through my [LinkedIn](https://www.linkedin.com/in/elurfano/)
+ or email me at *elurfano@up.edu.ph*
+
+## I'm currently working on increasing my webdev knowledge
+### Interested in the following
+- Python
+- JavaScript
+- PhP
+- React
+- Ruby
